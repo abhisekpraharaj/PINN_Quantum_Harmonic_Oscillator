@@ -64,7 +64,7 @@ In my problem I give a chunks of data from left hand side of the wavefunction to
 ![Alt text](n2state.gif)
 
 ### Normal Neural Network on the LHS and Physics Informed Neural Network(PINN) on the right learning for quantum harmonic oscillator state n=3
-![Alt text](n3state.gif)
+![Alt text](n3state.mp4)
 
 ### Normal Neural Network on the LHS and Physics Informed Neural Network(PINN) on the right learning for quantum harmonic oscillator state n=8
 ![Alt text](n8state.gif)
