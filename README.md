@@ -13,4 +13,6 @@ if we solve the schrodinger equation it will be like this:
 we know the Energy for a QHO will be in packet format or quantised:
 ### $E = (n+ \frac{1}{2}) \hbar \omega$
 
+and the solution for wave function will be:
+### \psi(x) = (\frac {m \omega} {\pi \hbar})^\frac{1}{4}
 
