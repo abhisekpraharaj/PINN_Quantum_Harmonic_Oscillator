@@ -1,6 +1,8 @@
 # PINN for Quantum Harmonic Oscillator
 <img src="wikiqmho.png" alt="Alt text" width="300" />
+
 By <a href="//commons.wikimedia.org/wiki/User:AllenMcC." title="User:AllenMcC.">AllenMcC.</a> - <a href="//commons.wikimedia.org/w/index.php?title=File:HarmOsziFunktionen.jpg&amp;action=edit&amp;redlink=1" class="new" title="File:HarmOsziFunktionen.jpg (page does not exist)">File:HarmOsziFunktionen.jpg</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=11623546">Link</a>
+
 ## The Struggle of Normal Neural Network is REAL, however Physics Informed Neural Network(PINN) behaves really well.
 ![Alt text](n3state.gif)
 ## Mathematics
