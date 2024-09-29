@@ -74,4 +74,7 @@ In my problem I give a chunks of data from left hand side of the wavefunction to
 The Struggle of Normal Neural Network is REAL, however Physics Informed Neural Network(PINN) behaves really well.
 ![Alt text](struggle_nn.jpg)
 
+### Dont Get it Anything! Look Down(A simple Picture)
+![Alt text](ex.jpg)
+
 
