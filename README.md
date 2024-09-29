@@ -1,2 +1,4 @@
 # PINN_Quantum_Harmonic_Oscillator
-In this repository, I tried to create a physics informed neural network to train on few datapoints of a quantum harmonic oscillator and see how the model learns about the problem.
+## Mathematics
+for a Quantum harmonic oscillator if we need to solve the schrodinger equation:
+$$ H = frac{p^2}{2m} + frac{1}{2} m w^2 x^2 $$
