@@ -11,6 +11,6 @@ if we solve the schrodinger equation it will be like this:
 ### where \omega =  $frac{k}{m}$
 
 we know the Energy for a QHO will be in packet format or quantised:
-### $E = (n+ frac{1}{2}) \hbar \omega$
+### $E = (n+ \frac{1}{2}) \hbar \omega$
 
 
