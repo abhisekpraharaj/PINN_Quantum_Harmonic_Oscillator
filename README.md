@@ -39,8 +39,6 @@ The advantage of PINNs becomes evident when we have data from a certain phenomen
 
 ## Workflow
 
-More information on the data and how to implement it will be provided.
-
 The total loss is a combination of the data loss and the physics loss:
 
 ### Total Loss
@@ -50,6 +48,13 @@ Total Loss = Data Loss + Physics Loss
 Where:
 
 $L_{physics} = \frac{1}{M} \sum_{i=1}^{M} \left( -\frac{\hbar^2}{2m} \frac{d^2 \psi(x_i)}{dx^2} + V(x_i) \psi(x_i) - E \psi(x_i) \right)^2$
+
 $L_{data} = \frac{1}{N} \sum_{i=1}^{N} \left( \hat{y}(x_i) - y(x_i) \right)^2$
+
+### Total Loss = $ \lamda L_{physics} = \frac{1}{M} \sum_{i=1}^{M} \left( -\frac{\hbar^2}{2m} \frac{d^2 \psi(x_i)}{dx^2} + V(x_i) \psi(x_i) - E \psi(x_i) \right)^2$ + $ \mu L_{data} = \frac{1}{N} \sum_{i=1}^{N} \left( \hat{y}(x_i) - y(x_i) \right)^2$
+
+where $\lamda$ and $\mu$ are the weights for different losses.
+
+
 
 
