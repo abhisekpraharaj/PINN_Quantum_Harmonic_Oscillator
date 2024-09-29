@@ -50,3 +50,6 @@ Total Loss = Data Loss + Physics Loss
 Where:
 
 $L_{physics} = \frac{1}{M} \sum_{i=1}^{M} \left( -\frac{\hbar^2}{2m} \frac{d^2 \psi(x_i)}{dx^2} + V(x_i) \psi(x_i) - E \psi(x_i) \right)^2$
+$L_{data} = \frac{1}{N} \sum_{i=1}^{N} \left( \hat{y}(x_i) - y(x_i) \right)^2$
+
+
