@@ -1,4 +1,5 @@
 # PINN for Quantum Harmonic Oscillator
+## The Struggle of Normal Neural Network is REAL, however Physics Informed Neural Network(PINN) behaves really well.
 
 ## Mathematics
 
@@ -63,10 +64,14 @@ In my problem I give a chunks of data from left hand side of the wavefunction to
 ![Alt text](n2state.gif)
 
 ### Normal Neural Network on the LHS and Physics Informed Neural Network(PINN) on the right learning for quantum harmonic oscillator state n=3
-![Alt text]()
+![Alt text](n3state.gif)
 
 ### Normal Neural Network on the LHS and Physics Informed Neural Network(PINN) on the right learning for quantum harmonic oscillator state n=8
-![Alt text]()
+![Alt text](n8state.gif)
 
+
+## Differences of Normal Neural Network(NNN) and Physics Informed Neural Network(PINN)
+The Struggle of Normal Neural Network is REAL, however Physics Informed Neural Network(PINN) behaves really well.
+![Alt text](struggle_nn.jpg)
 
 
