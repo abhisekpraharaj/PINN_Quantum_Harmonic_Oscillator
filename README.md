@@ -44,10 +44,9 @@ More information on the data and how to implement it will be provided.
 The total loss is a combination of the data loss and the physics loss:
 
 ### Total Loss
-\[
-\text{Total Loss} = \text{Data Loss} + \text{Physics Loss}
-\]
+
+Total Loss = Data Loss + Physics Loss
 
 Where:
 
-L_{physics} = \frac{1}{M} \sum_{i=1}^{M} \left( -\frac{\hbar^2}{2m} \frac{d^2 \psi(x_i)}{dx^2} + V(x_i) \psi(x_i) - E \psi(x_i) \right)^2
+$L_{physics} = \frac{1}{M} \sum_{i=1}^{M} \left( -\frac{\hbar^2}{2m} \frac{d^2 \psi(x_i)}{dx^2} + V(x_i) \psi(x_i) - E \psi(x_i) \right)^2$
