@@ -30,9 +30,10 @@ PINN's way of learning will be better of us if we have a data from a certain phe
 I will let you more on the data , and how to do it here:
 
 Total Loss = Data loss + Physics Loss
-\[
-\mathcal{L}_{\text{physics}} = \frac{1}{M} \sum_{i=1}^{M} \left( -\frac{\hbar^2}{2m} \frac{d^2 \psi(x_i)}{dx^2} + V(x_i) \psi(x_i) - E \psi(x_i) \right)^2
-\]
+
+$\mathcal{L}_{\text{physics}} = \frac{1}{M} \sum_{i=1}^{M} \left( -\frac{\hbar^2}{2m} \frac{d^2 \psi(x_i)}{dx^2} + V(x_i) \psi(x_i) - E \psi(x_i) \right)^2$
+
+
  
 
 
