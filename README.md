@@ -55,6 +55,18 @@ $L_{data} = \frac{1}{N} \sum_{i=1}^{N} \left( \hat{y}(x_i) - y(x_i) \right)^2$
 
 where $\lambda$ and $\mu$ are the weights for different losses.
 
+### Create a Train data and Test Data
+In my problem I give a chunks of data from left hand side of the wavefunction to train the model and the rest of the wavefunction will be for the model to predict and looking at the curve fitting we can understand how the model behaves for different wavefunction in case of quantum harmonic oscillator.
+
+### Plots
+### Normal Neural Network on the LHS and Physics Informed Neural Network(PINN) on the right learning for quantum harmonic oscillator state n=2
+![Alt text](n2state.gif)
+
+### Normal Neural Network on the LHS and Physics Informed Neural Network(PINN) on the right learning for quantum harmonic oscillator state n=3
+![Alt text]()
+
+### Normal Neural Network on the LHS and Physics Informed Neural Network(PINN) on the right learning for quantum harmonic oscillator state n=8
+![Alt text]()
 
 
 
