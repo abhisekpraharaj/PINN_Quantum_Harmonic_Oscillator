@@ -15,7 +15,7 @@ By <a href="//commons.wikimedia.org/wiki/User:AllenMcC." title="User:AllenMcC.">
 ## Mathematics
 
 For a Quantum Harmonic Oscillator, we need to solve the Schrödinger equation:
-# The exact mass values are not taken into consideration, one could take them but we need to scale the values for our model to learn better.
+The exact mass values are not taken into consideration, one could take them but we need to scale the values for our model to learn better.
 ### Hamiltonian:
 $$ H = \frac{p^2}{2m} + \frac{1}{2} m \omega^2 x^2 $$
 
