@@ -99,9 +99,9 @@ The Struggle of Normal Neural Network is REAL, however Physics Informed Neural N
 <img src="ex.jpg" alt="A simple picture" />
 
 ### Want to Learn More:
-
+- [BenMoseley_GitHub_PINN](https://github.com/benmoseley/harmonic-oscillator-pinn)
 - [YouTube Playlist](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQ0BaKuBKY43k4xMo6NSbBa)
 - [Jousef LITE Channel](https://www.youtube.com/@JousefLITE)
-- [GitHub Repository](https://github.com/benmoseley/harmonic-oscillator-pinn)
+
 
 </div>
